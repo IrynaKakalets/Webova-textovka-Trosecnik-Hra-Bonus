@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url('img/fon.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: white;
+  width: 40rem;
+  margin: auto;
+  background-color: rgb(1, 19, 67);
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  border-radius: 20px;
+}
+
+a {
+  color: rgb(61, 41, 241);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: rgb(203, 228, 241);
+}
